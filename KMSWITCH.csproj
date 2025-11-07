@@ -107,7 +107,6 @@
       <DependentUpon>setup.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="KMSWITCH\ke9ns8.dat" />
-    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
