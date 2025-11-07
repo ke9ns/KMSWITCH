@@ -1,10 +1,11 @@
 <!-- This makes the image show up beautifully on GitHub -->
 <div align="center">
-  <img src="assets/kmtronic.jpg" alt="App Screenshot" width="800"/>
+   <img src="assets/kmtronic.jpg" width="49%"/>
+   <img src="assets/kmswitch.png" width="49%"/>
   <br><br>
   <b>KMSWITCH used a an antenna switch for Amateur Radio</b>
   <br>
-  KMSWITCH used as an Antenna Switch for Amateur Radio use.
+
 </div>
 
 
