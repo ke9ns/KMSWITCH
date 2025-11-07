@@ -1,3 +1,13 @@
+<!-- This makes the image show up beautifully on GitHub -->
+<div align="center">
+  <img src="assets/screenshot.png" alt="App Screenshot" width="800"/>
+  <br><br>
+  <b>KMSWITCH used a an antenna switch for Amateur Radio</b>
+  <br>
+  A short tagline here
+</div>
+
+
 # KMSWITCH
 For those usins a KMSWITCH to control up to 8 antennas for Amateur Radio.
 
