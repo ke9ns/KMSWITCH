@@ -3,7 +3,7 @@
    <img src="assets/kmtronic.jpg" width="30%"/>
    <img src="assets/kmswitch.png" width="51%"/>
   <br><br>
-  <b>KMSWITCH used a an antenna switch for Amateur Radio</b>
+  <b>KMSWITCH used with an Antenna switch for Amateur Radio</b>
   <br>
 
 </div>
