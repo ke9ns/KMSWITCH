@@ -3,16 +3,17 @@
    <img src="assets/kmtronic.jpg" width="30%"/>
    <img src="assets/kmswitch.png" width="51%"/>
   <br><br>
-  <b>KMSWITCH used with an Antenna switch for Amateur Radio</b>
+  <b>KMSWITCH: Used with an Antenna switch for Amateur Radio</b>
   <br>
 
 </div>
 
 
 # KMSWITCH
-For those usins a KMTronics 8-channel USB Relay controller, to control up to 8 antennas for Amateur Radio.
+For those using a KMTronics 8-channel USB Relay controller, to control up to 8 antennas for Amateur Radio.
+The relay outputs from the KMTronic controller can be connected to a simple antenna switch.
 
-This program will Connect to your KMTronics 8-channel USB Relay controller via HTTP Internet connection
+This program will Connect your KMTronics 8-channel USB Relay controller via HTTP Internet connection
 provided you have a URL address, Port, User name, and Password
 Setup allows you to use a COM port to send/receive CAT commands to change antennas as your radio changes frequencies
 For SDR type radios, you need a Virtual COM port pair connected to your radio.
