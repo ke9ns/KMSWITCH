@@ -1,7 +1,8 @@
 <!-- This makes the image show up beautifully on GitHub -->
 <div align="center">
-   <img src="assets/kmtronic.jpg" width="30%"/>
+   <img src="assets/kmtronic.jpg" width="25%"/>
    <img src="assets/kmswitch.png" width="51%"/>
+    <img src="assets/kmswitch2.jpg" width="30%"/>
   <br><br>
   <b>KMSWITCH: Used with an Antenna switch for Amateur Radio</b>
   <br>

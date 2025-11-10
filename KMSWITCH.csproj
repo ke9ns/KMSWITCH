@@ -121,6 +121,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\kmswitch2.jpg" />
     <Content Include="assets\kmtronic.jpg" />
     <Content Include="CAT\CATStructs.xml" />
     <Content Include="KMSWITCH\1.jpg" />
